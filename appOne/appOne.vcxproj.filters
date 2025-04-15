@@ -31,5 +31,6 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="assets\map.txt" />
+    <Text Include="TITLE.txt" />
   </ItemGroup>
 </Project>
