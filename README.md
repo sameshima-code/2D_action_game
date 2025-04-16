@@ -1,43 +1,33 @@
 # 2D_action_game
-- このプロジェクトは、マリオを彷彿させる2D横スクロールアクションゲームです。
-- シンプルながらも奥深いアクションとパズル要素で、誰でも楽しめるゲーム体験を目指しています。
+- このプロジェクトはC++環境でC言語を使って作成しました。
+- このプロジェクトは、公開されているリポジトリを改良・拡張したものです。
+- リフレッシュレート144Hzの環境で開発しました。
 
 特徴
-- ジャンプとダッシュ: 直感的な操作でジャンプ、ダッシュ、回避が可能
-- 多彩な敵キャラクター: 敵を避けたり倒したりするスリリングなアクション
-- パワーアップ: アイテムを獲得することで、キャラクターの能力が一時的に向上
-- ステージ構成: 各ステージは独自のテーマと障害物で構成され、繰り返し楽しめるデザイン
-- 
-操作方法
-- 左右移動: ← / → キー
-- ジャンプ: スペースキーまたは Z キー
-- ダッシュ: Shift キー（一定時間発動）
+- 直感的な操作でジャンプ、ダッシュ可能
 
-使用技術
-プログラミング言語: C（C++）
-
-開発環境: Visual Studio 2022
+開発環境: 
+- C(C++)
+- Visual Studio 2022
 
 クレジット
+- クローン元のリポジトリ「Coding-Ocean」{ https://github.com/Coding-Ocean/map_file_malloc.git }
+- 元のコード解説と制作 { https://youtu.be/UxpxsM8aFxw?si=fNhKGiOxje2Uo97d }
 
 ーーーーーーーーーーーーーーーーーーーー
-- This project is a 2D side-scrolling action game inspired by classics like Mario.
-- It aims to deliver a rich and accessible gameplay experience with simple yet deep action and puzzle elements.
+- This project was created using the C programming language in a C++ development environment.
+- It is a modification and enhancement of a publicly available repository.
+- Development was carried out on a system with a 144Hz refresh rate.
 
 Features
-- Jumping and Dashing: Enjoy intuitive controls for jumping, dashing, and evading obstacles
-- Diverse Enemies: Experience thrilling action by dodging or defeating various enemy characters
-- Power-ups: Collect items that temporarily enhance your character’s abilities
-- Varied Levels: Each stage features its own theme and obstacles to keep the gameplay fresh and engaging
-
-Controls
-- Move Left/Right: Left / Right Arrow Keys
-- Jump: Space bar or Z key
-- Dash: Shift key (activates a burst of speed for a short duration)
-
-Technologies
-- Programming Language: C (C++)
-- Development Environment: Visual Studio 2022
-Graphics: Utilizes simple sprites and backgrounds
+- Intuitive controls allow for smooth jumping and dashing
+- 
+Development Environment
+- C (C++)
+- Visual Studio 2022
 
 Credits
+- The repository from which it was cloned: [Coding-Ocean] { https://github.com/Coding-Ocean/map_file_malloc.git }
+- Original code explained and produced by:  { https://youtu.be/UxpxsM8aFxw?si=fNhKGiOxje2Uo97d }
+
+
